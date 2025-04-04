@@ -1,0 +1,24 @@
+# Deep Learning Libraries
+torch
+torchvision
+efficientnet-pytorch
+
+# Streamlit for Web Application
+streamlit
+
+# Image Processing
+Pillow
+opencv-python
+
+# Data Handling and Evaluation
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Additional Utilities
+requests
+tqdm
